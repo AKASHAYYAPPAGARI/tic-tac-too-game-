@@ -1,0 +1,49 @@
+#strt{
+    color: rgb(221, 103, 19);
+    text-align: center;
+    background: rgb(100, 5, 5);
+    align-items: center;
+    flex: auto;
+    border: 1pt solid;
+    border-radius: 200px ;
+}
+#bu{
+    border: 1px solid black;
+    border-radius: 10px;
+    background: rgb(187, 145, 8);
+}
+body{
+    background-image:url(https://www.myfreetextures.com/wp-content/uploads/2014/10/seamless-wood-planks-3-900x900.jpg) ;
+    align-items: center;
+    place-items: center;
+    grid-area: auto;
+}
+table{
+    border: 5px solid black;
+    background: rgba(228, 223, 221, 0.45);
+    background-image: url(https://th.bing.com/th/id/R.08200d2db8aae3e0a1d570a85d6e2f79?rik=g211xQdTc2w8sw&riu=http%3a%2f%2fwww.psddots.com%2fwp-content%2fuploads%2f2013%2f07%2fbrown_wood_texture.jpg&ehk=bbcTE52cyLfEqLPGijjOt7DB7LHe%2fW3rceia6sYJ8fc%3d&risl=&pid=ImgRaw&r=0);
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-size: 90px;
+    border-radius: 10px;
+   
+}td{
+    border: 5px solid rgb(71, 2, 2);
+    height: 100px;
+    width: 100px;
+    padding: 1px;
+    text-align: center;
+    border-radius: 10px;
+}
+h3{
+    color: rgb(221, 103, 19);
+}
+.inst{
+    background: rgb(100, 5, 5);
+    text-align: center;
+    border: 1pt solid rgb(221, 103, 19) ;
+    border-radius: 200px;
+}
+
+
